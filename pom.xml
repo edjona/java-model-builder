@@ -18,11 +18,13 @@
       <name>Jonathan Edward</name>
       <email>invimp.edjona@gmail.com</email>
       <organization>Invimp</organization>
+      <organizationUrl>https://github.com/edjona</organizationUrl>
     </developer>
   </developers>
 
   <scm>
-    <connection>https://github.com/edjona/model-helper.git</connection>
+    <connection>scm:git:git://github.com/edjona/model-helper.git</connection>
+    <developerConnection>scm:git:ssh://github.com:edjona/model-helper.git</developerConnection>
     <url>https://github.com/edjona/model-helper</url>
   </scm>
 
