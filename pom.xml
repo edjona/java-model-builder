@@ -7,6 +7,31 @@
   <groupId>com.invimp</groupId>
   <artifactId>model-helper</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>jar</packaging>
+
+  <name>Model Helper</name>
+  <description>A application to create and manipulate data object.</description>
+  <url>https://github.com/edjona/model-helper</url>
+
+  <developers>
+    <developer>
+      <name>Jonathan Edward</name>
+      <email>invimp.edjona@gmail.com</email>
+      <organization>Invimp</organization>
+    </developer>
+  </developers>
+
+  <scm>
+    <connection>https://github.com/edjona/model-helper.git</connection>
+    <url>https://github.com/edjona/model-helper</url>
+  </scm>
+
+  <licenses>
+    <license>
+      <name>The Apache License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
